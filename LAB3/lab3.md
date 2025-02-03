@@ -159,7 +159,8 @@ x q[0];
 x q[1];
 // Set A = |1>
 // Set B = |1>
-// Take Target Qubit as 0 or 1, taking 1 here x q[2];
+// Take Target Qubit as 0 or 1, taking 1 here 
+x q[2];
 // Apply NOT to q[2] (flips only if controls are |1>) ccx q[0], q[1], q[2]; // q[2] = NOT (1) = 0
 // Measure the result 
 measure  q[2] -> c[0];
