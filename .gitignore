@@ -1,4 +1,4 @@
-# .gitignore
+.gitignore
 .vscode/
 qcvenv/
-.pdf
+QC Lab Assignment.pdf
