@@ -1,1 +1,5 @@
 qiskit
+qiskit_aer
+ipykernel
+matplotlib
+numpy
