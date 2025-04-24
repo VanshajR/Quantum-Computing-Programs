@@ -28,3 +28,9 @@ If you plan to run jobs on quantum hardware, also install Qiskit Runtime:
 ```bash
 pip install qiskit-ibm-runtime
 ```
+
+Or, do yourself a favour and use my requirements.txt file:
+
+```bash
+pip install -r requirements.txt
+```
