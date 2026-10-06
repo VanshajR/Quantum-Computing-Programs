@@ -34,3 +34,11 @@ Or, do yourself a favour and use my requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
+
+## License
+
+The code in this repository is licensed under the MIT License — see [LICENSE](LICENSE).
+
+Exception: the photo of the question paper in `LabEval2/` (`WhatsApp Image 2025-05-19 at 12.35.40_384478cf.jpg`) is faculty material and is not covered by this licence.
+
+Qiskit and Qiskit Aer remain under their own licence (Apache-2.0).
